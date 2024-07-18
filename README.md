@@ -1,0 +1,1 @@
+I made a button ripple effect using JavaScript, which handles most of the functionality. The design is simple and minimalistic, making it a great way to practice your JavaScript skills with this straightforward mini project.
